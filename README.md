@@ -73,8 +73,8 @@ ticket-management-system/
 
 ### Using Make (Linux / macOS)
 ```bash
-git clone https://github.com/<your-username>/ticket-management-system.git
-cd ticket-management-system
+git clone https://github.com/mugheeskhan5/ticket-management-system.git
+cd Ticket-Management-System
 make          # build
 make run      # build + run
 make debug    # build with debug symbols
